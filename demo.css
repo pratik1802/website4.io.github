@@ -1,0 +1,66 @@
+.height{
+height: 10vh;
+
+
+}
+.RED{
+    background-color:red ;
+    height: 10vh;
+}
+*{
+    margin:0;
+    padding:0;
+
+}
+.homepage{
+    /* border: 2px solid red; */
+
+    background-image: url(./public/flat-lay-workstation-with-copy-space-laptop.jpg);
+    height: 70vh;
+    width: 100%;
+    background-size: cover;
+}
+.marginup{
+    /* border: 2px solid red; */
+    display: block;
+    color: aliceblue;
+    font-size: large;
+    
+    /* margin-bottom: 50px; */
+}
+.background{
+    border: 2px solid black;
+    height: 30vh;background-color: blue;
+
+}
+.secondbackground{
+    border: 2px solid black;
+}
+.image{
+    min-height: 20vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid brown;background-image: url('./public/technology-background-concept-circuit-board-electronic-system-futuristic-hi-tech-light-on-dark-blue-free-vector.jpg');
+}
+.actualcontainer{
+    border: 2px solid black;
+    /* height: 25vh; */
+    /* padding-left: 20px; */
+}
+.imagecontainer{
+    min-height: 20vh;
+    background-color: aquamarine;
+}
+.footer{
+    border: 2px solid black;
+    background-color: rgb(162, 144, 144);
+}
+.imagecolor{
+    color:whitesmoke;
+}
+.alignment{
+    /* border: 2px solid red; */
+    text-align: center;
+
+}
